@@ -53,6 +53,8 @@ $ git commit -m "커밋 메세지"
 $ git remote add origin [github 원격 저장소 주소]
  ```
 
+※ `'origin'` 은 원격저장소를 가리키는 용어로 저장소명과는 다르고 관례적으로 origin을 쓴다. 임의의 단어를 써도 문법적으로 상관없고 __git clone__ 명령을 실행하면 자동으로 원격 저장소는 origin으로 부르게된다.
+
 ---
 
 
