@@ -16,21 +16,13 @@ __ex)__
 
 
 
-### :arrow_right:항목
+### :arrow_right: 프로필 화면에도 README 파일 추가하기
 
+- 다른 사람들 깃허브를 구경하던 중 이렇게 프로필 화면에도 README 파일이 있는 것을 보았다. 
 
+![프로필에 readme](../assets/readme_in_overview.PNG)
 
-
-
-### :arrow_right:항목
-
-
-
-
-
-### :arrow_right:항목
-
-
+- 신기해서 찾아보니 특별한거 아니고 본인의 이름과 동일한 레포지토리를 생성하면 저런 `Hi there` :wave: 문구의 README.md 파일을 추가할 수 있다. 물론 내용도 변경가능하고 태그를 활용하여 본인의 여러 SNS 계정 배지를 통해 좀 더 예쁜 프로필을 꾸밀 수 있다!
 
 
 
@@ -49,43 +41,3 @@ __ex)__
 ### :arrow_right:항목
 
 
-
-
-
-### :arrow_right:항목
-
-
-
-
-
-### :arrow_right:항목
-
-
-
-
-
-### :arrow_right:항목
-
-
-
-
-
-### :arrow_right:항목
-
-
-
-
-
-### :arrow_right:항목
-
-
-
-
-
-### :arrow_right:항목
-
-
-
-
-
-### :arrow_right:항목
