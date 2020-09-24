@@ -1,6 +1,6 @@
 # :mag: Index
 
-- [의사결정나무(Decision Tree)는 뭘까?](#:radio_button:-What-is-Decision-Tree)
+- [의사결정나무(Decision Tree)는 뭘까?](#:radio_button:-what-is-decision-tree)
 - [의사결정 나무의 철학: Information Gain](#information-gain)
 - ㅇ
 - ㅇ
