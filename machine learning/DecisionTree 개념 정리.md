@@ -1,8 +1,8 @@
 # :mag: Index
 
-- [의사결정나무(Decision Tree)는 뭘까?](#의사결정나무(decision-tree)는-뭘까?)
-- [의사결정 나무의 철학: Information Gain](#의사결정-나무의-철학:-information-gain)
-- ㅇ
+- [의사결정나무(Decision Tree)는 뭘까?](#의사결정나무(decision-tree)는-뭘까?) 
+- [의사결정 나무의 철학: Information Gain](#의사결정-나무의-철학:-information-gain) 
+- [why?](#day)
 - ㅇ
 - ㅇ
 
@@ -72,7 +72,7 @@
 
 
 
-### :arrow_right:항목
+### :arrow_right:day
 
 
 
