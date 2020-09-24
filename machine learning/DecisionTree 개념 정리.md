@@ -8,9 +8,8 @@
 
 ---
 
-### :radio_button: 의사결정나무(Decision Tree)는 뭘까?
+### :radio_button: 의사결정나무(Decision Tree)는 뭘까?  <a id="idx1"></a>
 
-idx1
 
 의사결정나무란 데이터 사이 존재하는 __패턴__ 을 찾아 이 규칙들의 __조합__ 으로 예측 모델을 만드는데 쓰이는 알고리즘으로 기계학습의 기초가 되는 알고리즘 중 하나이다.
 
@@ -38,11 +37,9 @@ idx1
 
 ---
 
-### :radio_button: 의사결정 나무의 철학: Information Gain
+### :radio_button: 의사결정 나무의 철학: Information Gain <a id="idx2"></a>
 
-idx2
-
-
+d
 
 
 
