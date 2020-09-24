@@ -1,7 +1,7 @@
 # :mag: Index
 
 - [의사결정나무(Decision Tree)는 뭘까?](#idx1) 
-- [의사결정 나무의 철학: Information Gain](#의사결정-나무의-철학:-information-gain) 
+- [의사결정 나무의 철학: Information Gain](#idx2) 
 - [why?](#day)
 - ㅇ
 - ㅇ
@@ -39,6 +39,10 @@
 ---
 
 ### :radio_button: 의사결정 나무의 철학: Information Gain
+
+> idx2
+
+
 
 
 
