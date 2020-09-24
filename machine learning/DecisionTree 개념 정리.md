@@ -1,14 +1,14 @@
 # :mag: Index
 
-- [의사결정나무(Decision Tree)는 뭘까?](#:radio_button:-what-is-decision-tree)
-- [의사결정 나무의 철학: Information Gain](#:radio_button:-information-gain)
+- [의사결정나무(Decision Tree)는 뭘까?](#의사결정나무(decision-tree)는-뭘까?)
+- [의사결정 나무의 철학: Information Gain](#의사결정-나무의-철학:-information-gain)
 - ㅇ
 - ㅇ
 - ㅇ
 
 ---
 
-### :radio_button: What is Decision Tree
+### :radio_button: 의사결정나무(Decision Tree)는 뭘까?
 
 의사결정나무란 데이터 사이 존재하는 __패턴__을 찾아 이 규칙들의 __조합__으로 예측 모델을 만드는데 쓰이는 알고리즘으로 기계학습의 기초가 되는 알고리즘 중 하나이다.
 
@@ -36,7 +36,7 @@
 
 ---
 
-### :radio_button: Information Gain
+### :radio_button: 의사결정 나무의 철학: Information Gain
 
 
 
