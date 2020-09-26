@@ -4,7 +4,7 @@
 - [의사결정나무의 철학: Information Gain](#idx2) 
 - [의사결정나무의 종류 : Type of Tree](#idx3)
 - [의사결정나무의 학습과정: Learning Process](#idx4) 
-- ㅇ
+- [참고자료](#idx5)
 
 ---
 
