@@ -60,8 +60,8 @@ model_r = DT_R(xdata,ydata,sample_weight)
 ### :radio_button: 의사결정나무 객체 예측/분류 <a id="idx3"></a>
 
 ```python
-predict_C = model_C(xtest)
-predict_R = model_r(xtest)
+predict_C = model_C.predict(xtest)
+predict_R = model_r.predict(xtest)
 ```
 
 
