@@ -108,7 +108,7 @@ __※ 사실 bagging 이외에도 랜덤포레스트의 각 나무는 임의 노
 
 ### :radio_button: sklearn 라이브러리를 활용한 랜덤 포레스트 <a id="idx4"></a> 
 
-:pencil2: ​​__무작위 숲 객체 생성__ 
+:pencil2:  ​​__무작위 숲 객체 생성__  
 
 ```python
 from sklearn.ensemble import RandomForestClassifier
@@ -126,9 +126,9 @@ RF_R = RandomForestRegressor()
   - default = 10 이며 , 너무 작으면 일반 의사결정 나무와 성능 차이가 없음
   - 나무의 수가 많을수록 노이즈에 강한 일반화 모델을 얻을 수 있지만 학습에 오랜 시간이 걸림
 
+  
 
-
-
+  
 
 
 :pencil2: __무작위 숲 객체 학습__ 
@@ -144,9 +144,9 @@ model_r = RF_R.fit(xdata,ydata,sample_weight)
 - `ydata` : 학습데이터의 출력값
 - `sample_weight` : optional 파라미터로 각 설명변수의 가중치 배열을 전달 가능. 분기 조사 과정에서 적용된다.
 
+  
 
-
-
+  
 
 :pencil2: __무작위 숲 객체 예측/분류__ 
 
@@ -159,9 +159,9 @@ predict_R = model_r.predict(xtest)
 
 예측 분류/값 에 대해 __배열__ 형태로 반환받는다.
 
+  
 
-
-
+  
 
  :pencil2: __무작위 숲 객체 평가__ 
 
@@ -181,9 +181,9 @@ score_r = model_r.score(xtest,ytest,sample_weight)
 - `회귀(Regression)`
   - __R2__ 라고 많이 표현하는 결정계수를 평가 지표를 활용한다. 모든 데이터를 평균치로 예측하는 단순 모델(Zero-R)과 비교하였을 때 얼마나 개선된 성능을 보이는지를 구하는 결정계수의 값 또한 ACC 와 마찬가지로 0~1 사이의 값을 가진다.
 
+  
 
-
-
+  
 
 
 
