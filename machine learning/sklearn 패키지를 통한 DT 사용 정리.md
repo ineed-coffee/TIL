@@ -41,8 +41,8 @@ DT_R = DecisionTreeRegressor()
 ### :radio_button: 의사결정나무 객체 학습 <a id="idx2"></a>
 
 ```python
-model_c = DT_C(xdata,ydata,sample_weight)
-model_r = DT_R(xdata,ydata,sample_weight)
+model_c = DT_C.fit(xdata,ydata,sample_weight)
+model_r = DT_R.fit(xdata,ydata,sample_weight)
 ```
 
 
