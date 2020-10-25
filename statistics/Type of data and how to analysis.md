@@ -2,13 +2,12 @@
 
 - [데이터의 종류와 예시](#idx1) 
 - [데이터 유형에 따른 상관 분석 방법](#idx2) 
-- [제목3](#idx3)
-- [제목4](#idx4) 
-- [제목5](#idx5)
-- [제목6](#idx6)
-- [제목7](#idx7)
-- [제목8](#idx8)
-- [제목9](#idx9)
+  - [연속형 데이터 - 연속형 데이터](#idx2_1)
+  - [이진 데이터 - 연속형 데이터](#idx2_2)
+  - [이진 데이터 - 이진 데이터](#idx2_3)
+- [참고자료](#idx3)
+
+
 
 ---
 
@@ -44,13 +43,51 @@ ex ) 연속형 데이터를 구간 mapping 을 통해 이산형 데이터로 다
 
 
 
-데이터간 선형도를 알아보기위해 상관 분석을 진행하는데 , 데이터의 생김새에 따라 이를 분석하는 방법이 다른다.
+데이터간 선형도 혹은 단조 정도를 알아보기위해 상관 분석을 진행하는데 , 데이터의 유형에 따라 이를 분석하는 방법이 다른다.
 
 
 
-1. __연속형 데이터 - 연속형 데이터__ 
+1. __연속형 데이터 - 연속형 데이터__ <a id="idx2_1"></a>
 
-작성 중
+연속적인 데이터로 이루어진 두 데이터를 상관 분석하는 방법은 2가지 유형으로 나뉜다.
+
+  
+
+`데이터가 정규성을 띄는 경우 or 띈다고 가정할 수 있을때`  : 
+
+- 평균, 표준편차와 같은 모수(parameter)를 활용할 수 있으므로 __피어슨 상관계수 (Pearson Correlation Coefficient)__ 를 통해 상관계수를 구한다.
+
+  
+
+`데이터의 수가 적거나 정규성 가정을 할 수 없는 경우` : 
+
+- 각 데이터를 크기에 따라 나열하여 순위를 매긴 후 해당 순위 데이터 사이의 피어슨 상관계수를 통해 분석하는 __스피어만 상관계수 (Spearman Rank Correlation Coefficient)__ 를 이용한다.
+- 순위 데이터를 통해 계산하므로 질적 데이터 중 __순서형 데이터__ 또한 가변수화하여 적용할 수 있다.
+- 스피어만 상관계수와 거의 비슷한 방법으로 __켄달의 타우 (Kenddall's Tau)__ 방식도 있다.
+
+
+
+  
+
+위의 두 방법 구분을 흔히  __`모수적 방법(Parametic method)` __ , __`비모수적 방법(Non-Parametic method)`__  으로 구분하는데 , 
+
+이에 대한 보다 자세한 내용은 [모수적 VS 비모수적 접근](곧 작성) 에 정리하였다.
+
+ 
+
+---
+
+
+
+2. __이진 데이터 - 연속형 데이터__ <a id="idx2_2"></a>
+
+독립 변수의 데이터가 네/아니오 와 같은 이진 형태로 되어 있고 종속 변수의 형태가 연속형 데이터일때 , 둘의 상관분석을 위해 다음 2가지 방법을 활용한다.
+
+1. 양류 상관계수 (point-biserial correlation coefficient)
+
+
+
+
 
 
 
@@ -59,16 +96,14 @@ ex ) 연속형 데이터를 구간 mapping 을 통해 이산형 데이터로 다
 ---
 
 
-### :radio_button: 제목3 <a id="idx3"></a>
+
+3. __이진 데이터 - 이진 데이터__ <a id='idx2_3'></a>
 
 
 
 
 
----
 
-
-### :radio_button: 제목4 <a id="idx4"></a>
 
 
 
@@ -76,44 +111,13 @@ ex ) 연속형 데이터를 구간 mapping 을 통해 이산형 데이터로 다
 
 ---
 
+### :radio_button: 참고자료 <a id="idx3"></a>
 
-### :radio_button: 제목5 <a id="idx5"></a>
-
-
-
-
-
----
+- [https://mansoostat.tistory.com/115](https://mansoostat.tistory.com/115) 
+- [https://dangdo.tistory.com/43](https://dangdo.tistory.com/43) 
+- [https://m.blog.naver.com/PostView.nhn?blogId=artquery&logNo=44945345&proxyReferer=https:%2F%2Fwww.google.com%2F](https://m.blog.naver.com/PostView.nhn?blogId=artquery&logNo=44945345&proxyReferer=https:%2F%2Fwww.google.com%2F) 
 
 
-### :radio_button: 제목6 <a id="idx6"></a>
-
-
-
-
-
----
-
-
-### :radio_button: 제목7 <a id="idx7"></a>
-
-
-
-
-
----
-
-
-### :radio_button: 제목8 <a id="idx8"></a>
-
-
-
-
-
----
-
-
-### :radio_button: 제목9 <a id="idx9"></a>
 
 
 
