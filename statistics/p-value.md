@@ -88,7 +88,8 @@
 
 ### :radio_button: 제목9 <a id="idx9"></a>
 
-
+- [https://drhongdatanote.tistory.com/59?category=648822](https://drhongdatanote.tistory.com/59?category=648822) 
+- [https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%9D%98_%ED%99%95%EB%A5%A0](https://ko.wikipedia.org/wiki/%EC%9C%A0%EC%9D%98_%ED%99%95%EB%A5%A0) 
 
 
 
