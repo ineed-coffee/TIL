@@ -131,8 +131,7 @@ $$
 ### :radio_button: 참고자료 <a id="idx3"></a>
 
 - [https://mansoostat.tistory.com/115](https://mansoostat.tistory.com/115) 
-- [https://dangdo.tistory.com/43](https://dangdo.tistory.com/43) 
-- [https://m.blog.naver.com/PostView.nhn?blogId=artquery&logNo=44945345&proxyReferer=https:%2F%2Fwww.google.com%2F](https://m.blog.naver.com/PostView.nhn?blogId=artquery&logNo=44945345&proxyReferer=https:%2F%2Fwww.google.com%2F) 
+- [https://m.blog.naver.com/PostView.nhn?blogId=artquery&logNo=44945345&proxyReferer=https:%2F%2Fwww.google.com%2F](https://m.blog.naver.com/PostView.nhn?blogId=artquery&logNo=44945345&proxyReferer=https:%2F%2Fwww.google.com%2F)  
 
 
 
