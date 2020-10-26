@@ -71,7 +71,7 @@ ex ) 연속형 데이터를 구간 mapping 을 통해 이산형 데이터로 다
 
 ※ 위의 두 방법 구분을 흔히  __`모수적 방법(Parametic method)` __ , __`비모수적 방법(Non-Parametic method)`__  으로 구분하는데 , 
 
-이에 대한 보다 자세한 내용은 [모수적 VS 비모수적 접근](곧 작성) 에 정리하였다.
+이에 대한 보다 자세한 내용은 [모수적 VS 비모수적 접근](https://github.com/ineed-coffee/TIL/blob/master/statistics/Parametric%20VS.%20Non-Parametric%20method.md) 에 정리하였다.
 
  
 
