@@ -108,7 +108,7 @@ __※ 사실 bagging 이외에도 랜덤포레스트의 각 나무는 임의 노
 
 ### :radio_button: sklearn 라이브러리를 활용한 랜덤 포레스트 <a id="idx4"></a> 
 
-:pencil2:  ​​__무작위 숲 객체 생성__  
+:pencil2: __무작위 숲 객체 생성__ 
 
 ```python
 from sklearn.ensemble import RandomForestClassifier
