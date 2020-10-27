@@ -11,9 +11,14 @@ import re
 
 ### __`Navigator`__ 
 
-
-
-[re.match](#idx1) 	[re.search](#idx2) 	[re.findall](#idx3) 	[re.compile](#idx4) 	[re.sub](#idx5) 	[meta strings](#idx6) 	[groups](#idx7) 	[OR , AND](#idx8) 	 
+[re.match](#idx1) 
+[re.search](#idx2) 	
+[re.findall](#idx3) 	
+[re.compile](#idx4) 	
+[re.sub](#idx5) 	
+[meta strings](#idx6) 	
+[groups](#idx7) 	
+[OR , AND](#idx8) 	 
 
 ​	
 
@@ -116,14 +121,14 @@ re.sub(정규표현식 , 대체 문자열 , 입력 문자열)
 
 ​	
 
-:pen: ​__`[] (대괄호)`__ 
+:pen: __`[] (대괄호)`__ 
 
 - 대괄호 내부에 있는 문자들과 매치
 - ex. [abc] => 입력 :  b (match) , d (fail)
 - [A-Z] , [a-z] , [a-zA-z] : 각각 모든 대문자 알파벳 , 모든 소문자 알파벳 , 모든 알파벳 과 매치
 - [0-9] , [가-힣] : 각각 모든 숫자 , 모든 한글과 매치
 
-:pen: __`\ (역슬래시)`__​ 
+:pen: __`\ (역슬래시)`__ 
 
 - 특수문자 일부를 메타문자가 아닌 그대로 쓰는 경우 혹은 특정 알파벳과 조합하여 집합의 의미를 가짐
 - \d : 숫자 전체 그룹 , [0-9] 과 같은 의미
