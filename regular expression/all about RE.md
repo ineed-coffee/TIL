@@ -7,20 +7,20 @@
 import re
 ```
 
-​	
+
 
 ### __`Navigator`__ 
 
-[re.match](#idx1) 
-[re.search](#idx2) 	
-[re.findall](#idx3) 	
-[re.compile](#idx4) 	
-[re.sub](#idx5) 	
-[meta strings](#idx6) 	
-[groups](#idx7) 	
-[OR , AND](#idx8) 	 
+- [re.match](#idx1)
+- [re.search](#idx2)
+- [re.findall](#idx3)
+- [re.compile](#idx4)
+- [re.sub](#idx5)
+- [meta strings](#idx6)
+- [groups](#idx7) 
+- [OR , AND](#idx8) 
 
-​	
+
 
 ---
 
