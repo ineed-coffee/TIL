@@ -111,7 +111,19 @@ __`Next`__ : 2021.02.06 9:00 PM KST
 
 
 
+### [2021.02.06]
 
+__`Topic`__  **:** **Lecture 9: Generalization (이동재)**
+
+__`Notes`__ : 업로드 예정
+
+__`Links`__ : 
+
+- [https://blog.naver.com/mykepzzang/220837959160](https://blog.naver.com/mykepzzang/220837959160) (베이즈 에러 도출 과정 확률과 표준편차 참고자료)
+- [https://warm-uk.tistory.com/44](https://warm-uk.tistory.com/44) (BottleNeck 층을 활용한 Inception)
+- [https://munjeongkang.github.io/ANN2/](https://munjeongkang.github.io/ANN2/) (model capacity)
+- [https://light-tree.tistory.com/216](https://light-tree.tistory.com/216) (Weight decay , L1&L2 regularizer)
+- [https://hyeonnii.tistory.com/353](https://hyeonnii.tistory.com/353) (Bayes Error)
 
 
 
