@@ -8,19 +8,23 @@ __`Topic`__ : **“Neural Network quick review to Gradient vanishing & exploding
 
 __`Notes`__ : 
 
-- https://drive.google.com/file/d/1udkb2t6JjMeQVv4t5xlL0Jr_S3J2RElu/view?usp=sharing 
+- [https://drive.google.com/file/d/1YzuEcHHXb7-nSEZ-zwTr-MvTCmbHEK-s/view?usp=sharing](https://drive.google.com/file/d/1YzuEcHHXb7-nSEZ-zwTr-MvTCmbHEK-s/view?usp=sharing) 
 
 __`Links`__ :
 
-- https://wikidocs.net/61375
-- https://m.blog.naver.com/PostView.nhn?blogId=pshkhh&logNo=221203426679&proxyReferer=https:%2F%2Fwww.google.com%2Fhttps://brunch.co.kr/@chris-song/39
-- https://t-lab.tistory.com/14https://aikorea.org/blog/rnn-tutorial-3/
-- [https://velog.io/@dscwinterstudy/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D2-5%EC%9E%A5-gnk6bhirc3](https://velog.io/@dscwinterstudy/밑바닥부터-시작하는-딥러닝2-5장-gnk6bhirc3)
-- https://m.blog.naver.com/worb1605/221187949828https://ganghee-lee.tistory.com/30
-- [https://heehehe-ds.tistory.com/entry/Deep-Learning-%EC%86%90%EC%8B%A4%ED%95%A8%EC%88%98loss-function-%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%80optimizer](https://heehehe-ds.tistory.com/entry/Deep-Learning-손실함수loss-function-옵티마이저optimizer)
-- https://ydseo.tistory.com/41https://cs224d.stanford.edu/notebooks/vanishing_grad_example.html
-- https://simonjisu.github.io/numpyseries/2018/03/14/rnnlstm2.html
-- https://mmuratarat.github.io/2019-02-07/bptt-of-rnn[https://ratsgo.github.io/natural%20language%20processing/2017/03/09/rnnlstm/](https://ratsgo.github.io/natural language processing/2017/03/09/rnnlstm/) 
+- [https://wikidocs.net/61375](https://wikidocs.net/61375) 
+- [https://m.blog.naver.com/PostView.nhn?blogId=pshkhh&logNo=221203426679&proxyReferer=https:%2F%2Fwww.google.com%2Fhttps://brunch.co.kr/@chris-song/39](https://m.blog.naver.com/PostView.nhn?blogId=pshkhh&logNo=221203426679&proxyReferer=https:%2F%2Fwww.google.com%2Fhttps://brunch.co.kr/@chris-song/39) 
+- [https://t-lab.tistory.com/14](https://t-lab.tistory.com/14) 
+- [https://aikorea.org/blog/rnn-tutorial-3/](https://aikorea.org/blog/rnn-tutorial-3/) 
+- [https://velog.io/@dscwinterstudy/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D2-5%EC%9E%A5-gnk6bhirc3](https://velog.io/@dscwinterstudy/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D2-5%EC%9E%A5-gnk6bhirc3) 
+- [https://m.blog.naver.com/worb1605/221187949828](https://m.blog.naver.com/worb1605/221187949828) 
+- [https://ganghee-lee.tistory.com/30](https://ganghee-lee.tistory.com/30) 
+- [https://heehehe-ds.tistory.com/entry/Deep-Learning-%EC%86%90%EC%8B%A4%ED%95%A8%EC%88%98loss-function-%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%80optimizer](https://heehehe-ds.tistory.com/entry/Deep-Learning-%EC%86%90%EC%8B%A4%ED%95%A8%EC%88%98loss-function-%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%80optimizer) 
+- [https://ydseo.tistory.com/41](https://ydseo.tistory.com/41) 
+- [https://cs224d.stanford.edu/notebooks/vanishing_grad_example.html](https://cs224d.stanford.edu/notebooks/vanishing_grad_example.html) 
+- [https://simonjisu.github.io/numpyseries/2018/03/14/rnnlstm2.html](https://simonjisu.github.io/numpyseries/2018/03/14/rnnlstm2.html) 
+- [https://mmuratarat.github.io/2019-02-07/bptt-of-rnn](https://mmuratarat.github.io/2019-02-07/bptt-of-rnn) 
+- [https://ratsgo.github.io/natural%20language%20processing/2017/03/09/rnnlstm/](https://ratsgo.github.io/natural%20language%20processing/2017/03/09/rnnlstm/) 
 
 __`Next`__ : 2021.01.16 9:30 PM KST
 
@@ -37,24 +41,24 @@ __`Topic`__  : __"Lecture 5: Multilayer Perceptrons" (박희원) , "Lecture 6: B
 
 __`Notes`__  : 
 
-- https://drive.google.com/drive/u/0/folders/1_zD7jvHkCFks4D4JLF4nQ7M(희원)
-- https://drive.google.com/drive/u/0/folders/1_zD7jvHkCFks4D4JLF4nQ7MmeoCppARQ(동재)
+- [https://drive.google.com/file/d/1Vve7AgAP2jnNuPpmrtkD8uRsJr_RdlBv/view?usp=sharing](https://drive.google.com/file/d/1Vve7AgAP2jnNuPpmrtkD8uRsJr_RdlBv/view?usp=sharing) (희원)
+- [https://drive.google.com/file/d/1V_E_m11_Ebj-GQP1qVvg0nt-Q6CdLhFY/view?usp=sharing](https://drive.google.com/file/d/1V_E_m11_Ebj-GQP1qVvg0nt-Q6CdLhFY/view?usp=sharing) (동재)
 
 __`Links`__ : 
 
-Multilayer Perceptrons 
+>  Multilayer Perceptrons 
 
-- http://hleecaster.com/ml-perceptron-concept/
-- http://blog.naver.com/PostView.nhn?blogId=apr407&logNo=221238611771&parentCategoryNo=&categoryNo=55&viewDate=&isShowPopularPosts=true&from=search
-- https://untitledtblog.tistory.com/27
-- https://choosunsick.github.io/post/neural_network_intro/
-- http://www.datamarket.kr/xe/board_LCmL04/26245
+- [http://hleecaster.com/ml-perceptron-concept/](http://hleecaster.com/ml-perceptron-concept/) 
+- [http://blog.naver.com/PostView.nhn?blogId=apr407&logNo=221238611771&parentCategoryNo=&categoryNo=55&viewDate=&isShowPopularPosts=true&from=search](http://blog.naver.com/PostView.nhn?blogId=apr407&logNo=221238611771&parentCategoryNo=&categoryNo=55&viewDate=&isShowPopularPosts=true&from=search) 
+- [https://untitledtblog.tistory.com/27](https://untitledtblog.tistory.com/27) 
+- [https://choosunsick.github.io/post/neural_network_intro/](https://choosunsick.github.io/post/neural_network_intro/) 
+- [http://www.datamarket.kr/xe/board_LCmL04/26245](http://www.datamarket.kr/xe/board_LCmL04/26245) 
 
-Backpropagation
+> Backpropagation
 
 - [https://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/readings/L06%20Backpropagation.pdf](https://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/readings/L06%20Backpropagation.pdf) 
-- https://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/slides/lec8a.pdf
-- https://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/slides/lec8b.pdf
+- [https://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/slides/lec8a.pdf](https://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/slides/lec8a.pdf) 
+- [https://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/slides/lec8b.pdf](https://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/slides/lec8b.pdf) 
 
 __`Next`__ : 2021.01.23 9:00 PM KST
 
@@ -71,11 +75,11 @@ __`Topic`__ : __Lecture 7: Optimization 1st part (이찬주)__
 
 __`Notes`__ :
 
-- https://drive.google.com/file/d/1o9t-pEZYoeh-1oMEGrJ6pU4OjHXDanLG/view?usp=sharing
+- [https://drive.google.com/file/d/1i8Q51GrKBykL9MsNINdWmhOfUZLekTMW/view?usp=sharing](https://drive.google.com/file/d/1i8Q51GrKBykL9MsNINdWmhOfUZLekTMW/view?usp=sharing) 
 
 __`Links`__ : 
 
-- https://hyunw.kim/blog/2017/11/01/Optimization.html
+- [https://hyunw.kim/blog/2017/11/01/Optimization.html](https://hyunw.kim/blog/2017/11/01/Optimization.html) 
 - [Gradient Descent Optimization Algorithms 정리](http://shuuki4.github.io/deep%20learning/2016/05/20/Gradient-Descent-Algorithm-Overview.html) , (shuuki4.github.io)
 
 __`Next`__ : 2021.01.30 9:00 PM KST 
@@ -115,7 +119,9 @@ __`Next`__ : 2021.02.06 9:00 PM KST
 
 __`Topic`__  **:** **Lecture 9: Generalization (이동재)**
 
-__`Notes`__ : 업로드 예정
+__`Notes`__ : 
+
+- [https://drive.google.com/file/d/1a55T8pqsaTU5RzoZOEmFMj01QcK1DFSk/view?usp=sharing](https://drive.google.com/file/d/1a55T8pqsaTU5RzoZOEmFMj01QcK1DFSk/view?usp=sharing) 
 
 __`Links`__ : 
 
@@ -125,7 +131,45 @@ __`Links`__ :
 - [https://light-tree.tistory.com/216](https://light-tree.tistory.com/216) (Weight decay , L1&L2 regularizer)
 - [https://hyeonnii.tistory.com/353](https://hyeonnii.tistory.com/353) (Bayes Error)
 
+__`Next`__ : 2021.02.20 9:00 PM KST
 
+- [http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/](https://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/) 
+- __Lecture 11: Convolutional Networks (박희원)__ 
+
+---
+
+
+
+### [2021.02.20]
+
+__`Topic`__ : __Lecture 11: Convolutional Networks (박희원)__ 
+
+__`Notes`__ : 
+
+- [https://drive.google.com/file/d/1G-xKWv8c00HsdIKE-GyhsE9mK_1GQJiq/view?usp=sharing](https://drive.google.com/file/d/1G-xKWv8c00HsdIKE-GyhsE9mK_1GQJiq/view?usp=sharing) 
+
+__`Links`__ : 
+
+- [https://untitledtblog.tistory.com/150](https://untitledtblog.tistory.com/150) 
+- [https://underflow101.tistory.com/44](https://underflow101.tistory.com/44) 
+- [https://underflow101.tistory.com/25](https://underflow101.tistory.com/25) 
+- [https://excelsior-cjh.tistory.com/180](https://excelsior-cjh.tistory.com/180) 
+- [https://dsbook.tistory.com/59](https://dsbook.tistory.com/59) 
+- [https://nittaku.tistory.com/264](https://nittaku.tistory.com/264) 
+
+__`Next`__ : 2021.02.27 9:00 PM KST
+
+- [http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/](https://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/) 
+- **Lecture 12: Image Classification (이찬주)** 
+
+```
+1.두 데이터 셋 간단 소개 (MNIST , Caltech101)
+2.Image NET 대회 간단 소개
+3.Conv net 사이즈 구하는 방법 (표기 방법)
+4.LeNET , AlexNET , GoogleNET , (LeNET , AlexNET 은 너무 깊게할 필요 없고 GoogleNET은 fully convolutional 이라는 의미가 뭔지)
+```
+
+---
 
 
 
