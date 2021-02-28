@@ -173,3 +173,41 @@ __`Next`__ : 2021.02.27 9:00 PM KST
 
 
 
+### [2021.02.27]
+
+__`Topic`__ : __Lecture 12: Image Classification (이찬주) , CNN misc part (이동재)__ 
+
+__`Notes`__ : 
+
+- [https://drive.google.com/file/d/1fOBJYnL4zsWlc9MFGb5MhZa_iOhknaz7/view?usp=sharing](https://drive.google.com/file/d/1fOBJYnL4zsWlc9MFGb5MhZa_iOhknaz7/view?usp=sharing) (이찬주)
+- [https://drive.google.com/file/d/1EVjse-RIuFQ9s8GzWP_rPz8XtzXUYA05/view?usp=sharing](https://drive.google.com/file/d/1EVjse-RIuFQ9s8GzWP_rPz8XtzXUYA05/view?usp=sharing) (이동재)
+
+__`Links`__ : 
+
+- [https://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/slides/lec12.pdf](https://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/slides/lec12.pdf) (Lecture 12 slide) 
+- [https://yjjo.tistory.com/8](https://yjjo.tistory.com/8) (start of CNN , concept of receptive field , how to calculate Conv. net size) 
+- [https://bskyvision.com/421](https://bskyvision.com/421) (all about AlexNet : info-share , ReLU , local response normalization) 
+- [https://bskyvision.com/422](https://bskyvision.com/422) (what is top-5 , top-1 error ?)
+
+__`Next`__ : 2021.03.06 9:00 PM KST
+
+- [https://m.blog.naver.com/laonple/220710707354](https://m.blog.naver.com/laonple/220710707354) (라온피플) 
+- **Special Lecture : Inception , VGG Net , Res Net (이동재 , 민채정)** 
+
+> __Google Net (이동재)__ 
+>
+> - 1X1 Convolution
+> - Inception module (different kernel size , naive & advanced)
+> - global average pooling
+> - auxilary classifier
+
+> __VGG Net , Res Net (민채정)__ 
+>
+> - important features of vgg net ( diff between 16 & 19 ?)
+> - concept of skip connection from Res Net 
+> - R-CNN , Fast R-CNN , Faster R-CNN 은 이번 파트 X
+
+
+
+
+
