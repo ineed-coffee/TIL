@@ -207,7 +207,45 @@ __`Next`__ : 2021.03.06 9:00 PM KST
 > - concept of skip connection from Res Net 
 > - R-CNN , Fast R-CNN , Faster R-CNN 은 이번 파트 X
 
+***
 
+​	
 
+### [2021.03.06]
 
+__`Topic`__ : __Lecture 12.3: GooLeNet (이동재)__ 
 
+__`Notes`__ : 
+
+- [https://drive.google.com/file/d/1_PMmX5JODykn1q1667IbfDbSi5moxNY-/view?usp=sharing](https://drive.google.com/file/d/1_PMmX5JODykn1q1667IbfDbSi5moxNY-/view?usp=sharing) (이동재)
+
+__`Links`__ : 
+
+- [https://blog.naver.com/laonple/220686328027](https://blog.naver.com/laonple/220686328027) (GooLeNet Lecture Note 1~5) 
+- [https://bskyvision.com/539](https://bskyvision.com/539) (Inception V1 soft review) 
+- [https://89douner.tistory.com/62](https://89douner.tistory.com/62) (concatenation in Inception module) 
+- [https://jetsonaicar.tistory.com/16](https://jetsonaicar.tistory.com/16) (Global Average Pooling , explained)
+- [https://lv99.tistory.com/21](https://lv99.tistory.com/21) (1X1 Conv. layer , explained)
+
+__`Next`__ : 2021.03.13 9:00 PM KST
+
+- **Special Lecture : VGG Net , Res Net (민채정)** 
+
+- [https://blog.naver.com/laonple/220738560542][https://blog.naver.com/laonple/220738560542] (VGG Net [1] ~ VGG Net [2])
+- [https://blog.naver.com/laonple/220761052425](https://blog.naver.com/laonple/220761052425) (Res Net [1] ~ Res Net [3])
+
+> __Will Cover__ 
+>
+> _VGG Net_ : using only 3X3 kernel ? (what is factorizing colvolution filter ?)
+>
+> _VGG Net_ : how to deal with gradient vanish/exploding problem (pre-trained kernel initializing)
+>
+> _VGG Net_ : technique on how-to train/test dataset (scale jittering) <- 어려운 개념이니 간단하게만
+>
+> _Rest Net_ : what is residual learning? ( Shortcut-connection? Identity mapping?)
+>
+> _Rest Net_ : what features resnet team took from VGG? (common vs. diff)
+>
+> _Rest Net_ : BottleNeck Layer (only for models with layers>50)
+>
+> _Rest Net_ : other experiment with CIFAR dataset (going for 1000 layers)
