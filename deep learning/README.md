@@ -209,7 +209,7 @@ __`Next`__ : 2021.03.06 9:00 PM KST
 
 ***
 
-​	
+
 
 ### [2021.03.06]
 
@@ -231,7 +231,7 @@ __`Next`__ : 2021.03.13 9:00 PM KST
 
 - **Special Lecture : VGG Net , Res Net (민채정)** 
 
-- [https://blog.naver.com/laonple/220738560542][https://blog.naver.com/laonple/220738560542] (VGG Net [1] ~ VGG Net [2])
+- [https://blog.naver.com/laonple/220738560542](https://blog.naver.com/laonple/220738560542) (VGG Net [1] ~ VGG Net [2])
 - [https://blog.naver.com/laonple/220761052425](https://blog.naver.com/laonple/220761052425) (Res Net [1] ~ Res Net [3])
 
 > __Will Cover__ 
