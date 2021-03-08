@@ -56,8 +56,9 @@ __'__ 사건 A 가 일어났을때 B가 일어날 확률 __'__  과 같은 __조
 ​	
 
 조건부 확률의 계산은 위 표현식들의 조합을 통해 이루어진다.
-<p align=center><img src="http://latex2png.com/pngs/5da5f972f714b399673d86609f3e14c6.png">
+<p align=center><img src="http://latex2png.com/pngs/07ca123db3b2f8938fc1e23b23a59b46.png">
 </p> 
+
 말로 풀어보자면 ,
 
 `A가 일어났다고 가정할때 B가 일어날 확률` = `A , B 가 동시에 일어날 확률` ÷ `A가 일어날 확률`  로 계산되는 것이다.
@@ -71,30 +72,25 @@ __'__ 사건 A 가 일어났을때 B가 일어날 확률 __'__  과 같은 __조
 ​	
 
  앞의 조건부 확률 계산식으로부터 결합확률 `P(B∩A)` 는 다음과 같이 다시 쓸 수 있는데 , 
-<p align=center><img src="http://latex2png.com/pngs/7e6547162b8b303c4ec45e707175178e.png">
+<p align=center><img src="http://latex2png.com/pngs/30b647f653394dafd803f3501b8932c7.png">
 </p>
 `P(B∩A)` = `P(A∩B)` 라고 했으므로 , 다음과 같은 식이 만들어진다.
 
 ​	
-$$
-P(B∩A) = P(B|A)·P(A)……1
-$$
+<p align=center><img src="http://latex2png.com/pngs/f4932910004bb23e7ac13a53808d3ccc.png">
+</p>
 
-$$
-P(A∩B) = P(A|B)·P(B)……2
-$$
+<p align=center><img src="http://latex2png.com/pngs/8df60e63c6507429f811eaaca10cc2f3.png">
+</p>
 
-$$
-P(B∩A) = P(A∩B)……3
-$$
+<p align=center><img src="http://latex2png.com/pngs/41e8904688dbaf94742f2c506f145cf7.png">
+</p>
 
-$$
-P(B|A)·P(A) = P(A|B)·P(B)……4
-$$
+<p align=center><img src="http://latex2png.com/pngs/3d7564b2e288e1e91d8e703d31c526d0.png">
+</p>
 
-$$
-∴ P(B|A) = \frac {P(A|B)·P(B)}{P(A)}……5
-$$
+<p align=center><img src="http://latex2png.com/pngs/42618b976784d87909a85a9037f4dc1e.png">
+</p>
 
 ​	
 
@@ -153,9 +149,8 @@ $$
 ​	
 
 위 용어로 베이즈 이론을 종합하여 다시 작성하면 , 우리가 실제로 알고 싶은 __사후확률__ 을 계산하는 식은 다음과 같이 나타낼 수 있다.
-$$
-Posterior = \frac {Likelihood·Prior}{Evidence}
-$$
+<p align=center><img src="http://latex2png.com/pngs/5bf8c19a135b0811e238644356fc9389.png">
+</p>
 ​	
 
 ---
