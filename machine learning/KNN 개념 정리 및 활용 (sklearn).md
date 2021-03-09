@@ -28,7 +28,11 @@
 
 아래는 k-최근접 이웃 알고리즘의 이해를 돕기 위한 사진이다.
 
-![k최근접](../assets/knn.png){:.aligncenter}    
+<p align="center">
+<img src="../assets/knn.png" alt="초기">
+</p>
+
+​	    
 
 ```
 * 가장 가까운 3개의 기존 데이터의 분류를 살펴본 결과 , B분류가 2개 A분류가 1개이므로 새로운 데이터 '별' 은 B분류로 할당
@@ -57,9 +61,9 @@
 (x1,x2,...,xn) 의 값을 가지는 데이터와 (y1,y2,...,yn) 의 값을 가지는 데이터 사이 거리는 다음과 같이 나타낸다.
 
 
-$$
-dist = \sqrt {(x_1-y_1)^2 + (x_2-y_2)^2 + ... +(x_n-y_n)^2}
-$$
+<p align="center">
+<img src="http://latex2png.com/pngs/f1e0f04b61a59270245c76f47d4752ce.png">
+</p>
 ​		
 
 ---
