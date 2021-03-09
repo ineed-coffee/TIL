@@ -19,6 +19,7 @@ import re
 - [meta strings](#idx6)
 - [groups](#idx7) 
 - [OR , AND](#idx8) 
+- [greedy quantifier vs. lazy quantifier](#idx9) 
 
 
 
@@ -224,4 +225,73 @@ pattern = '(group1)|(group2)'
 ```python
 pattern = '(?=group1)(?=group2)'
 ```
+
+​	
+
+***
+
+​	
+
+### :arrow_right: 탐욕적 수량자 vs. 게으른 수량자 <a id='idx9'></a>
+
+​	
+
+> 정규표현식은 기본적으로 탐욕적 수량자에 의해 문자열을 탐색하기 때문에 특정 상황에서는 게으른 수량자를 통해 탐색할 필요가 있다.
+>
+> [PS 문제풀이 도중](https://programmers.co.kr/learn/courses/30/lessons/42893) , html 문자열을 parsing 하는 과정에서 의도치 않은 파싱이 일어나는 것을 보고 두 차이를 확인하였다.
+
+```python
+import re
+string_ = '''<a href="https://a.com" other="additional_info">'''
+url_pattern = re.compile('''<a href="(.*)"''')
+print("current url=",url_pattern.search(string_).group())
+```
+
+​	
+
+> 당연히 __https://a.com__ 가 출력될줄 알았으나 결과는 다음과 같았다.
+
+```python
+'current url= https://a.com" other="additional_info'
+```
+
+
+​	
+> 이는 기본 탐색 방식인 탐욕적 수량자는 전체 문자열을 탐색하고 표현식에 일치하는 __가장 큰__ 길이의 문자열을 취하기 때문에 발생한다.
+>
+> 따라서 문자열 전체 탐색을 마치기 전에 표현식이 일치하는 순간 바로 탐색을 감지하려면 게으른 수량자를 통해 탐색을 진행해야한다.
+>
+> 게으른 수량자 적용 방법은 다음과 같이 탐욕적 수량자에 `?` 를 붙여 사용하면 된다.
+
+​	
+
+:pen: __`Greedy Quantifier`__ 
+
+```python
+pattern = '(.*)'
+pattern = '(.+)'
+pattern = '(.{n,})'
+```
+
+​	
+
+:pen: __`Lazy Quantifier`__ 
+
+```python
+pattern = '(.*?)'
+pattern = '(.+?)'
+pattern = '(.{n,}?)'
+```
+
+​	
+
+__※ `?` 기호가 단독으로 쓰이는 수량자와 헷갈리지 말자.__ 
+
+​	
+
+***
+
+
+
+
 
