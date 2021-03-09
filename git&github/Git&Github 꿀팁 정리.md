@@ -26,11 +26,32 @@ __ex)__
 
 
 
-### :arrow_right:항목
+### :arrow_right: LaTex 로 작성된 수식 Github에서 렌더링하기
 
+- 개념 정리 마크 다운 파일이나 기타 LaTex로 작성된 수식이 포함되어 있는 파일을 깃헙에 올리면 정상적으로 렌더링이 되지 않고 다음과 같이 글자 그대로 렌더링된다. 
 
+$$
+P(A \cap B) = 0.7
+$$
 
+- 이를 깃헙에서 정상적으로 수식으로 렌더링되도록 하기 위한 여러 LaTex-to-image convert 웹 사이트들이 있는데 그 중 [http://latex2png.com/](http://latex2png.com/) 이곳에서 변환하는 것이 가장 덜 번거로웠다.
+- 사이트에 들어가 LaTex 문법에 따라 수식을 작성하고 `Generate` 버튼을 누르면 다음처럼 변환된 이미지가 하단에 뜨게 되는데,
 
+![latex2img](../assets/latex2img.PNG)
+
+- 변환된 이미지의 주소를 마크다운에 적용시키면 Github에서도 정상적으로 렌더링 된다!
+
+![latexlink](../assets/latex2img_link.PNG)
+	
+		
+			
+				
+
+<p align="center">
+<img src="http://latex2png.com/pngs/adb18029f45432bb487fb2111615193f.png">
+</P>
+
+​	
 
 ### :arrow_right:항목
 
