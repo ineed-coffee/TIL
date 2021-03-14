@@ -4,11 +4,11 @@
 
 ### [2021.01.09]
 
-__`Topic`__ : **“Neural Network quick review to Gradient vanishing & exploding problem”** 
+__`Topic`__ : **Neural Network quick review to Gradient vanishing & exploding problem** 
 
 __`Notes`__ : 
 
-- [https://drive.google.com/file/d/1YzuEcHHXb7-nSEZ-zwTr-MvTCmbHEK-s/view?usp=sharing](https://drive.google.com/file/d/1YzuEcHHXb7-nSEZ-zwTr-MvTCmbHEK-s/view?usp=sharing) 
+- [https://drive.google.com/file/d/15_-n3O7gaMyRTqq5-WC9hfms1Xtea2Jp/view?usp=sharing](https://drive.google.com/file/d/15_-n3O7gaMyRTqq5-WC9hfms1Xtea2Jp/view?usp=sharing) 
 
 __`Links`__ :
 
@@ -37,12 +37,12 @@ __`Next`__ : 2021.01.16 9:30 PM KST
 
 ### [2021.01.16]
 
-__`Topic`__  : __"Lecture 5: Multilayer Perceptrons" (박희원) , "Lecture 6: Backpropagation" (이동재)__ 
+__`Topic`__  : __Lecture 5: Multilayer Perceptrons (박희원) , Lecture 6: Backpropagation (이동재)__ 
 
 __`Notes`__  : 
 
-- [https://drive.google.com/file/d/1Vve7AgAP2jnNuPpmrtkD8uRsJr_RdlBv/view?usp=sharing](https://drive.google.com/file/d/1Vve7AgAP2jnNuPpmrtkD8uRsJr_RdlBv/view?usp=sharing) (희원)
-- [https://drive.google.com/file/d/1V_E_m11_Ebj-GQP1qVvg0nt-Q6CdLhFY/view?usp=sharing](https://drive.google.com/file/d/1V_E_m11_Ebj-GQP1qVvg0nt-Q6CdLhFY/view?usp=sharing) (동재)
+- [https://drive.google.com/file/d/1p446nFckVgzjhYFzZ7EABXLRX9Mq3QLN/view?usp=sharing](https://drive.google.com/file/d/1p446nFckVgzjhYFzZ7EABXLRX9Mq3QLN/view?usp=sharing) (희원)
+- [https://drive.google.com/file/d/1BydNGPxWEwRxiJobvu5dPq88xhRO2ypU/view?usp=sharing](https://drive.google.com/file/d/1BydNGPxWEwRxiJobvu5dPq88xhRO2ypU/view?usp=sharing) (동재)
 
 __`Links`__ : 
 
@@ -75,7 +75,7 @@ __`Topic`__ : __Lecture 7: Optimization 1st part (이찬주)__
 
 __`Notes`__ :
 
-- [https://drive.google.com/file/d/1i8Q51GrKBykL9MsNINdWmhOfUZLekTMW/view?usp=sharing](https://drive.google.com/file/d/1i8Q51GrKBykL9MsNINdWmhOfUZLekTMW/view?usp=sharing) 
+- [https://drive.google.com/file/d/1gq4tCKfcwQ_QYRO8XYhdR3Y3UTfJQXNd/view?usp=sharing](https://drive.google.com/file/d/1gq4tCKfcwQ_QYRO8XYhdR3Y3UTfJQXNd/view?usp=sharing) 
 
 __`Links`__ : 
 
@@ -121,7 +121,7 @@ __`Topic`__  **:** **Lecture 9: Generalization (이동재)**
 
 __`Notes`__ : 
 
-- [https://drive.google.com/file/d/1a55T8pqsaTU5RzoZOEmFMj01QcK1DFSk/view?usp=sharing](https://drive.google.com/file/d/1a55T8pqsaTU5RzoZOEmFMj01QcK1DFSk/view?usp=sharing) 
+- [https://drive.google.com/file/d/1X-KzORli9CRrPun3qsMfREAr08cbLCWv/view?usp=sharing](https://drive.google.com/file/d/1X-KzORli9CRrPun3qsMfREAr08cbLCWv/view?usp=sharing) 
 
 __`Links`__ : 
 
@@ -146,7 +146,7 @@ __`Topic`__ : __Lecture 11: Convolutional Networks (박희원)__
 
 __`Notes`__ : 
 
-- [https://drive.google.com/file/d/1G-xKWv8c00HsdIKE-GyhsE9mK_1GQJiq/view?usp=sharing](https://drive.google.com/file/d/1G-xKWv8c00HsdIKE-GyhsE9mK_1GQJiq/view?usp=sharing) 
+- [https://drive.google.com/file/d/1F8j0ubTHnhKQ0nA8Qf7bysDkuaFlfmZ4/view?usp=sharing](https://drive.google.com/file/d/1F8j0ubTHnhKQ0nA8Qf7bysDkuaFlfmZ4/view?usp=sharing) 
 
 __`Links`__ : 
 
@@ -179,8 +179,8 @@ __`Topic`__ : __Lecture 12: Image Classification (이찬주) , CNN misc part (�
 
 __`Notes`__ : 
 
-- [https://drive.google.com/file/d/1fOBJYnL4zsWlc9MFGb5MhZa_iOhknaz7/view?usp=sharing](https://drive.google.com/file/d/1fOBJYnL4zsWlc9MFGb5MhZa_iOhknaz7/view?usp=sharing) (이찬주)
-- [https://drive.google.com/file/d/1EVjse-RIuFQ9s8GzWP_rPz8XtzXUYA05/view?usp=sharing](https://drive.google.com/file/d/1EVjse-RIuFQ9s8GzWP_rPz8XtzXUYA05/view?usp=sharing) (이동재)
+- [https://drive.google.com/file/d/1GYaiD1fUVTdfW4P82oZz8oK5EJTm8xgX/view?usp=sharing](https://drive.google.com/file/d/1GYaiD1fUVTdfW4P82oZz8oK5EJTm8xgX/view?usp=sharing) (이찬주)
+- [https://drive.google.com/file/d/1npGyII1IWSrQQN_LGjtjK7RtgibJFvX-/view?usp=sharing](https://drive.google.com/file/d/1npGyII1IWSrQQN_LGjtjK7RtgibJFvX-/view?usp=sharing) (이동재)
 
 __`Links`__ : 
 
@@ -249,3 +249,50 @@ __`Next`__ : 2021.03.13 9:00 PM KST
 > _Rest Net_ : BottleNeck Layer (only for models with layers>50)
 >
 > _Rest Net_ : other experiment with CIFAR dataset (going for 1000 layers)
+
+​	
+
+***
+
+
+
+### [2021.03.13]
+
+__`Topic`__ : __Lecture 12.4: VGG , ResNet (민채정,이동재)__ 
+
+__`Notes`__ : 
+
+- [https://drive.google.com/file/d/1HMu1LWBzk_FtQoB9m-0ti03_dMNYo3YG/view?usp=sharing](https://drive.google.com/file/d/1HMu1LWBzk_FtQoB9m-0ti03_dMNYo3YG/view?usp=sharing) 
+
+__`Links`__ : 
+
+- [https://blog.naver.com/laonple/220710707354](https://blog.naver.com/laonple/220710707354) (VGG : Conv. Factorizing) 
+- [https://brunch.co.kr/@kmbmjn95/37](https://brunch.co.kr/@kmbmjn95/37) (ResNet : how 'residual' idea came up) 
+- [https://www.stand-firm-peter.me/2020/09/26/resnet/](https://www.stand-firm-peter.me/2020/09/26/resnet/) (ResNet : 최강 자료1. 모든 설명 다 있음) 
+- [https://www.stand-firm-peter.me/2020/09/30/resnet_2/](https://www.stand-firm-peter.me/2020/09/30/resnet_2/) (ResNet : 최강 자료2. 모든 설명 다 있음)
+- [https://ratsgo.github.io/deep%20learning/2017/10/09/CNNs/](https://ratsgo.github.io/deep%20learning/2017/10/09/CNNs/) (ResNet : DenseNet 언급)
+
+__`Next`__ : 2021.03.20 9:00 PM KST
+
+- **Object Detection : R-CNN , SPPNET** 
+
+- [https://blog.naver.com/laonple/220731472214](https://blog.naver.com/laonple/220731472214) (GooLeNet [6])
+
+> __Will Cover__ 
+>
+> - Object Classification VS. Object Detection ?
+>   - Bounding Box , mAP , IOU
+> - What is R-CNN ? 
+>   - SIFT , HOG
+>   - Selective search
+> - How Berkeley team applied R-CNN ?
+>   - PASCAL VOL
+>   - fine-tuning
+> - Limits of R-CNN & How SPPNet came up
+>   - dealing with fixed input size
+>   - how many crops/warps
+
+- 순서 변경 : `이동재` -  `민채정` - `박희원` - `이찬주` - `김진원`
+
+---
+
