@@ -296,3 +296,32 @@ __`Next`__ : 2021.03.20 9:00 PM KST
 
 ---
 
+​	
+
+### [2021.03.20]
+
+__`Topic`__ : __Lecture 13: Object Detection, R-CNN & SPPNET (Hayden)__ 
+
+__`Notes`__ : 
+
+- [https://drive.google.com/file/d/1CymQUZRUMwj4uCGWzFqZj48_HEP8scNo/view?usp=sharing](https://drive.google.com/file/d/1CymQUZRUMwj4uCGWzFqZj48_HEP8scNo/view?usp=sharing) 
+
+__`Links`__ : 
+
+- https://woosikyang.github.io/fast-rcnn.html
+- https://nuggy875.tistory.com/21
+- https://ganghee-lee.tistory.com/35
+- https://blog.naver.com/PostView.nhn?blogId=isu112600&logNo=221583808984
+- https://woosikyang.github.io/fast-rcnn.html
+
+__`Next`__ : 2021.03.27 9:00 PM KST
+
+- __Object Detection : Fast - RCNN__ 
+- https://blog.naver.com/laonple/220776743537 (ResNet [4], Fast-RCNN)
+
+> __Will Cover__ 
+>
+> - 
+
+---
+
