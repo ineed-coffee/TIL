@@ -274,7 +274,7 @@ __`Links`__ :
 
 __`Next`__ : 2021.03.20 9:00 PM KST
 
-- **Object Detection : R-CNN , SPPNET** 
+- **Object Detection : R-CNN , SPPNET (Hayden)** 
 
 - [https://blog.naver.com/laonple/220731472214](https://blog.naver.com/laonple/220731472214) (GooLeNet [6])
 
@@ -308,20 +308,70 @@ __`Notes`__ :
 
 __`Links`__ : 
 
-- https://woosikyang.github.io/fast-rcnn.html
-- https://nuggy875.tistory.com/21
-- https://ganghee-lee.tistory.com/35
-- https://blog.naver.com/PostView.nhn?blogId=isu112600&logNo=221583808984
-- https://woosikyang.github.io/fast-rcnn.html
+- [https://woosikyang.github.io/fast-rcnn.html](https://woosikyang.github.io/fast-rcnn.html) 
+- [https://nuggy875.tistory.com/21](https://nuggy875.tistory.com/21) 
+- [https://ganghee-lee.tistory.com/35](https://ganghee-lee.tistory.com/35) 
+- [https://blog.naver.com/PostView.nhn?blogId=isu112600&logNo=221583808984](https://blog.naver.com/PostView.nhn?blogId=isu112600&logNo=221583808984) 
+- [https://woosikyang.github.io/fast-rcnn.html](https://woosikyang.github.io/fast-rcnn.html) 
 
 __`Next`__ : 2021.03.27 9:00 PM KST
 
-- __Object Detection : Fast - RCNN__ 
-- https://blog.naver.com/laonple/220776743537 (ResNet [4], Fast-RCNN)
+- __Object Detection : R-CNN & SPPNET details (Chanju, James)__ 
+- [https://blog.naver.com/laonple/220731472214](https://blog.naver.com/laonple/220731472214) ( (GooLeNet [6])
 
 > __Will Cover__ 
 >
-> - 
+> - R-CNN : Background
+>   - Computer Vision , selective search , SIFT , HOG , DPM
+> - R-CNN : Architecture
+>   - 3-modules
+> - R-CNN : How to test ? (detect , forward)
+>   - NMS
+> - R-CNN : How to evaluate?
+>   - mAP , different metrics
+> - R-CNN : How to train?
+>   - different IOU threshold
+>   - Bbox regressor understanding
+> - R-CNN : Limits
 
 ---
+
+​	
+
+### [2021.03.27]
+
+__`Topic`__ : __Lecture 13.2: Object Detection : R-CNN & SPPNET details (Chanju, James)__ 
+
+__`Notes`__ : 
+
+- [https://drive.google.com/file/d/12qj8R53HCYFz8ZcKlukv1pKEM-rM5_4e/view?usp=sharing](https://drive.google.com/file/d/12qj8R53HCYFz8ZcKlukv1pKEM-rM5_4e/view?usp=sharing) [James]
+- [s](s) [Chanju]  
+
+__`Links`__ : 
+
+- [https://arxiv.org/pdf/1311.2524.pdf](https://arxiv.org/pdf/1311.2524.pdf) (original r-cnn thesis)
+- [https://wiserloner.tistory.com/1174](https://wiserloner.tistory.com/1174) (r-cnn background, selective search details)
+- [https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html#model-workflow](https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html#model-workflow) (hard negative mining)
+- [https://nuggy875.tistory.com/21](https://nuggy875.tistory.com/21) (how to train each modules)
+- [https://dyndy.tistory.com/275](https://dyndy.tistory.com/275) (NMS)
+- [https://pacientes.github.io/posts/2021/02/ml_ap_map/](https://pacientes.github.io/posts/2021/02/ml_ap_map/) (Confidence score)
+- [http://blog.naver.com/PostView.nhn?blogId=sogangori&logNo=221224276320](http://blog.naver.com/PostView.nhn?blogId=sogangori&logNo=221224276320) mAP
+- [https://eehoeskrap.tistory.com/183](https://eehoeskrap.tistory.com/183) (end-to-end)
+
+__`Next`__ : 2021.04.03 9:00 PM KST
+
+- __Object Detection : SPPNET , Fast-RCNN details (Chanju, James)__ 
+- [https://blog.naver.com/laonple/220731472214](https://blog.naver.com/laonple/220731472214) ( GooLeNet [6])
+- [https://blog.naver.com/laonple/220776743537](https://blog.naver.com/laonple/220776743537) ( ResNet [4])
+
+> __Will Cover__ 
+>
+> - SPP Net : 
+> - Fast R-CNN : 
+
+_Future models of object detection :_ `SPPNet` , `Fast R-CNN` , `Faster R-CNN` , `YOLO v1` 
+
+---
+
+​	
 
