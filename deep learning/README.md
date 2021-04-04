@@ -345,7 +345,6 @@ __`Topic`__ : __Lecture 13.2: Object Detection : R-CNN & SPPNET details (Chanju,
 __`Notes`__ : 
 
 - [https://drive.google.com/file/d/12qj8R53HCYFz8ZcKlukv1pKEM-rM5_4e/view?usp=sharing](https://drive.google.com/file/d/12qj8R53HCYFz8ZcKlukv1pKEM-rM5_4e/view?usp=sharing) [James]
-- [s](s) [Chanju]  
 
 __`Links`__ : 
 
@@ -367,11 +366,61 @@ __`Next`__ : 2021.04.03 9:00 PM KST
 > __Will Cover__ 
 >
 > - SPP Net : 
+>   - What's improved from R-CNN ? (idea, keywords)
+>   - SPP Net flow (rough) (compared with R-CNN)
+>   - SPP layer details (bin, BoW, how to calculate output)
+>   - Practical training (Single-size, Multi-size training)
+>   - Performance in fields (Classification, Detection)
+>   - SPP Net Limits
 > - Fast R-CNN : 
+>   - what's improved from SPP Net ? (idea, keywords)
+>   - Fast R-CNN flow (rough) (compared with SPP Net)
+>   - training Fast R-CNN (multi-task loss function, Hierarchical Sampling)
+>   -  test methods (truncated SVD)
+>   - Fast R-CNN Limits
 
 _Future models of object detection :_ `SPPNet` , `Fast R-CNN` , `Faster R-CNN` , `YOLO v1` 
 
 ---
 
 ​	
+
+### [2021.04.03]
+
+__`Topic`__ : __Lecture 13.3: Object Detection : SPPNET details, Fast R-CNN basic (Chanju, James)__ 
+
+__`Notes`__ : 
+
+- [https://drive.google.com/file/d/1IQHx6BPhMwCURbBuw6QBcBeLk8YSUnZg/view?usp=sharing](https://drive.google.com/file/d/1IQHx6BPhMwCURbBuw6QBcBeLk8YSUnZg/view?usp=sharing) [Chanju]
+- [https://drive.google.com/file/d/1bQAmtjUexd1lbpZgRB_sKC8VOwPMs064/view?usp=sharing](https://drive.google.com/file/d/1bQAmtjUexd1lbpZgRB_sKC8VOwPMs064/view?usp=sharing) [James]
+
+__`Links`__ : 
+
+> SPP Net
+
+- [https://arxiv.org/pdf/1406.4729.pdf](https://arxiv.org/pdf/1406.4729.pdf) (original spp net thesis)
+- [https://driip.me/5743aed5-c630-4900-b367-9987a088661a](https://driip.me/5743aed5-c630-4900-b367-9987a088661a) (what is BoW approach in image?)
+- [https://n1094.tistory.com/30](https://n1094.tistory.com/30) (spp layer performance in classificaton & detection)
+- [https://blog.naver.com/laonple/220731472214](https://blog.naver.com/laonple/220731472214) (Laon people, 내용 생략 심함)
+- [https://yeomko.tistory.com/14](https://yeomko.tistory.com/14) (SPPnet 전반적 흐름 & 설명)
+- [https://www.youtube.com/watch?v=i0lkmULXwe0](https://www.youtube.com/watch?v=i0lkmULXwe0) (SPPnet 논문 강의 : 고려대학교 연구실)
+- [https://89douner.tistory.com/89](https://89douner.tistory.com/89) (SPPnet 보충 설명 , 자세한)
+
+> Fast R-CNN
+
+- [https://arxiv.org/pdf/1504.08083.pdf](https://arxiv.org/pdf/1504.08083.pdf) (original fast r-cnn thesis)
+- [https://fintecuriosity-11.tistory.com/73](https://fintecuriosity-11.tistory.com/73) (ablation study)
+- [https://yeomko.tistory.com/15](https://yeomko.tistory.com/15) (how is end-to-end training possible?)
+- [https://deepsense.ai/region-of-interest-pooling-explained/](https://deepsense.ai/region-of-interest-pooling-explained/) (spp vs roi pooling)
+
+__`Next`__ : 2021.04.10 9:00 PM KST
+
+- __Object Detection : Fast R-CNN details, Fast R-CNN fine-tuning practice (Jaden , James)__ 
+
+> __Will Cover__ 
+>
+> -  https://github.com/polospeter/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course%203%20-%20Advanced%20computer%20vision%20with%20Tensorflow/Week%201/C3_W1_Lab_2_Transfer_Learning_CIFAR_10.ipynb
+> - 
+
+---
 
