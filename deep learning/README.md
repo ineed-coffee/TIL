@@ -415,12 +415,56 @@ __`Links`__ :
 
 __`Next`__ : 2021.04.10 9:00 PM KST
 
-- __Object Detection : Fast R-CNN details, Fast R-CNN fine-tuning practice (Jaden , James)__ 
+- __Object Detection : Fast R-CNN details, ResNet fine-tuning practice (James , Jaden)__ 
 
 > __Will Cover__ 
 >
-> -  https://github.com/polospeter/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course%203%20-%20Advanced%20computer%20vision%20with%20Tensorflow/Week%201/C3_W1_Lab_2_Transfer_Learning_CIFAR_10.ipynb
-> - 
+> - Fast R-CNN : 
+>   - what's improved from SPP Net ? (idea, keywords)
+>   - Fast R-CNN flow (rough) (compared with SPP Net)
+>   - training Fast R-CNN (multi-task loss function, Hierarchical Sampling)
+>   - test methods (truncated SVD)
+>   - Fast R-CNN Limits
+> - ResNet fine-tuning source code
+>   - https://github.com/polospeter/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course%203%20-%20Advanced%20computer%20vision%20with%20Tensorflow/Week%201/C3_W1_Lab_2_Transfer_Learning_CIFAR_10.ipynb
+
+---
+
+​	
+
+### [2021.04.10]
+
+__`Topic`__ : __Lecture 13.4: Object Detection : Fast R-CNN details, ResNet fine-tuning practice (James , Jaden)__ 
+
+__`Notes`__ : 
+
+- [https://drive.google.com/file/d/1ari0YxYTqaH9mky2pKkPOO9p15gX1EBS/view?usp=sharing](https://drive.google.com/file/d/1ari0YxYTqaH9mky2pKkPOO9p15gX1EBS/view?usp=sharing) [James]
+- [https://drive.google.com/drive/folders/18WZeNJSrlOti07epXNy75Ws1s6U-Y-Q9?usp=sharing](https://drive.google.com/drive/folders/18WZeNJSrlOti07epXNy75Ws1s6U-Y-Q9?usp=sharing) [Jaden]
+
+__`Links`__ : 
+
+> Fast R-CNN
+
+- [https://arxiv.org/pdf/1504.08083.pdf](https://arxiv.org/pdf/1504.08083.pdf) (original fast r-cnn thesis)
+- [https://fintecuriosity-11.tistory.com/73](https://fintecuriosity-11.tistory.com/73) (ablation study)
+- [https://yeomko.tistory.com/15](https://yeomko.tistory.com/15) (how is end-to-end training possible?)
+- [https://deepsense.ai/region-of-interest-pooling-explained/](https://deepsense.ai/region-of-interest-pooling-explained/) (spp vs roi pooling)
+- [https://ratsgo.github.io/deep%20learning/2017/04/05/CNNbackprop/](https://ratsgo.github.io/deep%20learning/2017/04/05/CNNbackprop/) (backprops in CNN layer)
+
+> Res Net fine-tuning code
+
+- [https://www.tensorflow.org/hub/tutorials/tf2_object_detection](https://www.tensorflow.org/hub/tutorials/tf2_object_detection) 
+- [https://detectron2.readthedocs.io/en/latest/_modules/detectron2/modeling/roi_heads/fast_rcnn.html](https://detectron2.readthedocs.io/en/latest/_modules/detectron2/modeling/roi_heads/fast_rcnn.html) 
+- [https://github.com/facebookresearch/detectron2/blob/master/detectron2/modeling/roi_heads/fast_rcnn.py](https://github.com/facebookresearch/detectron2/blob/master/detectron2/modeling/roi_heads/fast_rcnn.py) 
+- [https://github.com/rbgirshick/py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn) 
+
+__`Next`__ : 2021.04.24 9:00 PM KST
+
+- __Object Detection : Faster R-CNN overview,details (James)__ 
+
+> __Will Cover__ 
+>
+> - Faster R-CNN : 
 
 ---
 
