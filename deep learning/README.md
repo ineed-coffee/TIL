@@ -460,11 +460,38 @@ __`Links`__ :
 
 __`Next`__ : 2021.04.24 9:00 PM KST
 
-- __Object Detection : Faster R-CNN overview,details (James)__ 
+- __DNN_practice & keras overview from Colab (James)__ 
 
 > __Will Cover__ 
 >
-> - Faster R-CNN : 
+> - 자주 쓰게 될 서브 패키지 및 객체들
+> - 3가지 모델 작성 법
+> - 학습&테스트 과정 및 설정
 
 ---
 
+​	
+
+### [2021.04.24]
+
+__`Topic`__ : __Special Course 1.DNN_practice & keras overview from Colab (James)__ 
+
+__`Notes`__ : 
+
+- [https://colab.research.google.com/drive/1hgquBEms7U-ZOff2x4OYy2Xzd8WZed5z?usp=sharing](https://colab.research.google.com/drive/1hgquBEms7U-ZOff2x4OYy2Xzd8WZed5z?usp=sharing) [James]
+
+__`Links`__ : 
+
+- [도큐먼트 짱](https://keras.io/api) 
+
+- [https://wikidocs.net/106897](https://wikidocs.net/106897) (3-API) 
+
+- [https://jjeongil.tistory.com/953](https://jjeongil.tistory.com/953) (evaluate) 
+
+- [https://data-newbie.tistory.com/644](https://data-newbie.tistory.com/644) (performance visualization) 
+
+__`Next`__ : 2021.05.01 9:00 PM KST
+
+- __Inception module implementation from keras in Colab (Chloe)__ 
+
+> - 
