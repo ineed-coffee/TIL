@@ -526,11 +526,13 @@ __`Next`__ : 2021.05.08 9:00 PM KST
 > - `RPN` , region proposal networks ( kind of FCN?)
 > - Pyramids of images VS. Pyramids of filters VS. `Pyramids of Anchors` 
 >
-> - Model architecture & Forward-pass (brief check)
->   - 마찬가지로 간단히
->   - how a single image passs through model
 >
-> 2. __All about RPN__ 
+> 2. __Model architecture & Forward-pass (brief check)__ 
+>
+> - 마찬가지로 간단히
+> - how a single image passs through model
+>
+> 3. __All about RPN__ 
 >
 > - 자세히
 > - Inputs & Outputs
@@ -542,11 +544,11 @@ __`Next`__ : 2021.05.08 9:00 PM KST
 > - Train
 >   - how to train RPN?
 >
-> 3. __How RPN and Detector share feature maps?__ 
+> 4. __How RPN and Detector share feature maps?__ 
 >
 > - alternating training?
 >
-> 4. __Implementation details__ 
+> 5. __Implementation details__ 
 >
 > - 가능한 정도만
 > - used scales, anchor types
