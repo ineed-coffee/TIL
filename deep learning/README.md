@@ -494,4 +494,59 @@ __`Next`__ : 2021.05.01 9:00 PM KST
 
 - __Inception module implementation from keras in Colab (Chloe)__ 
 
-> - 
+> - how to build Inception module with keras using Functional API method?
+
+---
+
+​	
+
+### [2021.05.01]
+
+__`Topic`__ : __Special Course 2. Keras overview & implementation of Inception block on Colab (James)__ 
+
+__`Notes`__ : 
+
+- [https://colab.research.google.com/drive/1hgquBEms7U-ZOff2x4OYy2Xzd8WZed5z?usp=sharing](https://colab.research.google.com/drive/1hgquBEms7U-ZOff2x4OYy2Xzd8WZed5z?usp=sharing) [James]
+
+__`Links`__ : 
+
+- [도큐먼트 짱](https://keras.io/api) 
+- [https://wikidocs.net/106897](https://wikidocs.net/106897) (3-API) 
+- [https://jjeongil.tistory.com/953](https://jjeongil.tistory.com/953) (evaluate) 
+- [https://data-newbie.tistory.com/644](https://data-newbie.tistory.com/644) (performance visualization) 
+- [https://nevfiasco.tistory.com/6](https://nevfiasco.tistory.com/6) (Inception block implementation)
+
+__`Next`__ : 2021.05.08 9:00 PM KST
+
+- __Object Detection: Faster R-CNN (Chloe, James)__ 
+
+> 1. __What's improved? (or suggested?)__ 
+>
+> - 키워드별로 개념만, 뒤에 세부내용이 별도로 나옴
+> - `RPN` , region proposal networks ( kind of FCN?)
+> - Pyramids of images VS. Pyramids of filters VS. `Pyramids of Anchors` 
+>
+> - Model architecture & Forward-pass (brief check)
+>   - 마찬가지로 간단히
+>   - how a single image passs through model
+>
+> 2. __All about RPN__ 
+>
+> - 자세히
+> - Inputs & Outputs
+> - Anchor Box
+>   - what is Anchor box & what does translation-invariant means
+>   - how to refer anchor box to regression 
+> - Loss
+>   - what loss function is defined on  RPN?
+> - Train
+>   - how to train RPN?
+>
+> 3. __How RPN and Detector share feature maps?__ 
+>
+> - alternating training?
+>
+> 4. __Implementation details__ 
+>
+> - 가능한 정도만
+> - used scales, anchor types
