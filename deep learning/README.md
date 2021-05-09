@@ -552,3 +552,51 @@ __`Next`__ : 2021.05.08 9:00 PM KST
 >
 > - 가능한 정도만
 > - used scales, anchor types
+
+---
+
+​	
+
+### [2021.05.08]
+
+__`Topic`__ : __Lecture 13.5: Object Detection Faster R-CNN part1 (Chloe, James)__ 
+
+__`Notes`__ : 
+
+- [https://drive.google.com/file/d/1--1Wj2JcrLcxMHPWoJNo24sPg2TAa-Go/view?usp=sharing](https://drive.google.com/file/d/1--1Wj2JcrLcxMHPWoJNo24sPg2TAa-Go/view?usp=sharing) [Chloe]
+- [https://drive.google.com/file/d/16bjfABuBK1J-ejQRYNgOLjT2Z-iiqiu2/view?usp=sharing](https://drive.google.com/file/d/16bjfABuBK1J-ejQRYNgOLjT2Z-iiqiu2/view?usp=sharing) [James]
+
+__`Links`__ : 
+
+- [https://arxiv.org/pdf/1506.01497.pdf](https://arxiv.org/pdf/1506.01497.pdf) (Faster R-CNN original thesis) 
+- [https://www.youtube.com/watch?v=46SjJbUcO-c&t=1451s](https://www.youtube.com/watch?v=46SjJbUcO-c&t=1451s) (기초개념 참고 유튜브 영상) 
+- [https://deep-learning-study.tistory.com/464](https://deep-learning-study.tistory.com/464) (In/Out of RPN picture) 
+- [https://herbwood.tistory.com/10](https://herbwood.tistory.com/10) (Training RPN details, KR) 
+- [https://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/](https://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/) (Training RPN details, EN)
+- [https://herbwood.tistory.com/11?category=867198](https://herbwood.tistory.com/11?category=867198) (코드로 이해하는 RPN)
+- [https://medipixel.github.io/post/2019-06-14-anchor-target/#ref_7](https://medipixel.github.io/post/2019-06-14-anchor-target/#ref_7) (코드로 이해하는 RPN loss)
+- [https://ganghee-lee.tistory.com/39](https://ganghee-lee.tistory.com/39) (FCN 참고자료 1)
+- [https://medium.com/hyunjulie/1%ED%8E%B8-semantic-segmentation-%EC%B2%AB%EA%B1%B8%EC%9D%8C-4180367ec9cb](https://medium.com/hyunjulie/1%ED%8E%B8-semantic-segmentation-%EC%B2%AB%EA%B1%B8%EC%9D%8C-4180367ec9cb) (FCN 참고자료 2) 
+
+__`Next`__ : 2021.05.15 9:00 PM KST
+
+- __Object Detection: Faster R-CNN part2 (Chloe, James)__ 
+
+> - multibox
+>
+> - regression loss
+>
+> - training rpn
+>
+> - feature map sharing, alternating training
+>
+> - implementation detail
+
+---
+
+__`스터디 RULE 수정`__ 
+
+- 월/화 : 순서 변경이 필요한 팀원의 경우 화요일 저녁 전까지 다른 팀원에게 요청.
+
+- 수: 해당 주 담당 팀원은 진행 정도 및 별도 준비가 필요한 부분을 James에게 전달.
+
