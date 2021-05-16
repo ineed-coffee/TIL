@@ -580,23 +580,54 @@ __`Links`__ :
 
 __`Next`__ : 2021.05.15 9:00 PM KST
 
-- __Object Detection: Faster R-CNN part2 (Chloe, James)__ 
+- __Object Detection: Faster R-CNN part2 (Hayden, James)__ 
 
-> - multibox
+> - __All about RPN__ 
+>   - Train (how to train RPN?) 
+> - __How RPN and Detector share feature maps?__ 
+>   - 4-step alternating training
+> - __Implementation details__ 
+>   - 가능한 정도만
+>   - used scales, anchor types
 >
-> - regression loss
+> \+ __multibox approach (pyramids of filters)__ 
 >
-> - training rpn
->
-> - feature map sharing, alternating training
->
-> - implementation detail
+> \+ __understanding regression loss of RPN__ 
 
 ---
 
 __`스터디 RULE 수정`__ 
 
 - 월/화 : 순서 변경이 필요한 팀원의 경우 화요일 저녁 전까지 다른 팀원에게 요청.
-
 - 수: 해당 주 담당 팀원은 진행 정도 및 별도 준비가 필요한 부분을 James에게 전달.
+
+---
+
+​	
+
+### [2021.05.15]
+
+__`Topic`__ : __Lecture 13.5: Object Detection Faster R-CNN part2 (Hayden, James)__ 
+
+__`Notes`__ : 
+
+- [https://drive.google.com/file/d/1UdzLboCNc1Sda4ns83RVS-ar-JhcVCZl/view?usp=sharing](https://drive.google.com/file/d/1UdzLboCNc1Sda4ns83RVS-ar-JhcVCZl/view?usp=sharing) [Hayden]
+- [https://drive.google.com/file/d/1OhM4QieuKMh_Nlv5WkWv0iZ4-MXBV_IK/view?usp=sharing](https://drive.google.com/file/d/1OhM4QieuKMh_Nlv5WkWv0iZ4-MXBV_IK/view?usp=sharing) [James]
+
+__`Links`__ : 
+
+- [https://herbwood.tistory.com/10](https://herbwood.tistory.com/10) (Training RPN details, KR) 
+- [https://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/](https://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/) (Training RPN details, EN) 
+- [https://nuggy875.tistory.com/33](https://nuggy875.tistory.com/33) (Lreg term of RPN loss) 
+- [https://ganghee-lee.tistory.com/37](https://ganghee-lee.tistory.com/37) (4-step alternating trainging of Faster R-CNN) 
+- [https://ratsgo.github.io/deep%20learning/2017/04/05/CNNbackprop/](https://ratsgo.github.io/deep%20learning/2017/04/05/CNNbackprop/) (remind of back-prop of maxpool layer)
+
+__`Next`__ : 2021.05.22 9:00 PM KST
+
+- __Object Detection: YOLO v1 (Chanju, James)__ 
+
+> - 
+>
+
+---
 
