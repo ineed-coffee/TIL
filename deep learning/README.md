@@ -631,3 +631,78 @@ __`Next`__ : 2021.05.22 9:00 PM KST
 
 ---
 
+​	
+
+### [2021.05.23]
+
+__`Topic`__ : __Programmers ML Dev-matching 참여 (전원)__ 
+
+__`Notes`__ : 
+
+- [https://programmers.co.kr/competitions/1109/2021-machinelearning](https://programmers.co.kr/competitions/1109/2021-machinelearning) [Programmers Link]
+
+__`Links`__ : 
+
+- `None` 
+
+__`Next`__ : 2021.05.29 9:00 PM KST
+
+- __Object Detection: YOLO v1 (Chloe, Chanju, James)__ 
+
+> - __What's improved? (or suggested?)__ 
+>   - object-detection as single-regression problem
+>   - three benefits over traditional models
+> - __Architecture & Computation flow__ 
+>   - network design
+>   - how raw image pass-through model (checking in/out of every layer)
+> - __Train & Inference__ 
+>   - understanding each term of sum-squared error
+>   - using `λcoord` , `λnoobj` parameters
+> - __Limits & Comparison to other previous models__ 
+>   - limits : spatial constraint, small-object problem, coarse features, loss-balance
+>   - comparison : `DPM` , `Deep MultiBox` , `OverFeat` , `MultiGrasp` 제외
+
+
+
+---
+
+​	
+
+### [2021.05.29]
+
+__`Topic`__ : __Object Detection: YOLO v1 (Chloe, Chanju, James)__ 
+
+__`Notes`__ : 
+
+- [https://drive.google.com/file/d/1WSqIcKwjyRALc4T3v0L3sBim5XuiSjkV/view?usp=sharing](https://drive.google.com/file/d/1WSqIcKwjyRALc4T3v0L3sBim5XuiSjkV/view?usp=sharing) [Chanju]
+- [https://drive.google.com/file/d/18ITsaPJeyCBJVEUfjxaFFfgXxoiXjxk6/view?usp=sharing](https://drive.google.com/file/d/18ITsaPJeyCBJVEUfjxaFFfgXxoiXjxk6/view?usp=sharing) [James]
+- [https://drive.google.com/file/d/1-61pnmfN_boV-Xgif2br8nUWN2hEh6Ge/view?usp=sharing](https://drive.google.com/file/d/1-61pnmfN_boV-Xgif2br8nUWN2hEh6Ge/view?usp=sharing) [Chloe]
+
+__`Links`__ : 
+
+- [https://arxiv.org/pdf/1506.02640.pdf ](https://arxiv.org/pdf/1506.02640.pdf) (원 논문)
+- [https://jonathan-hui.medium.com/real-time-object-detection-with-yolo-yolov2-28b1b93e2088](https://jonathan-hui.medium.com/real-time-object-detection-with-yolo-yolov2-28b1b93e2088) (how output of final fc layer is tensor, not vector? => reshape, EN) 
+- [https://curt-park.github.io/2017-03-26/yolo/](https://curt-park.github.io/2017-03-26/yolo/) (computation flow, KR)
+- [https://kevin970401.github.io/cnn/2019/08/19/detection.html](https://kevin970401.github.io/cnn/2019/08/19/detection.html) (yolo limits, KR) 
+
+__`Next`__ : 2021.06.05 9:00 PM KST
+
+- __Recurrent Neural Network (Hayden, James)__ 
+
+> - [https://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/readings/L14%20Recurrent%20Neural%20Nets.pdf](https://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/readings/L14%20Recurrent%20Neural%20Nets.pdf) 
+
+​	
+
+---
+
+​	
+
+
+
+ 
+
+
+
+
+
+
