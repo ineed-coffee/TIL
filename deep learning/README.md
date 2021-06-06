@@ -697,12 +697,25 @@ __`Next`__ : 2021.06.05 9:00 PM KST
 
 ​	
 
+### [2021.06.05]
 
+__`Topic`__ : __Recurrent Neural Networks (Hayden, James)__ 
 
- 
+__`Notes`__ : 
 
+- [https://drive.google.com/file/d/1qP1_SBwEeFE8CQ0T_Pd9veb2H6JEVRbP/view?usp=sharing](https://drive.google.com/file/d/1qP1_SBwEeFE8CQ0T_Pd9veb2H6JEVRbP/view?usp=sharing) [Hayden]
+- [https://drive.google.com/file/d/1otSFBwYQcOD1dgZqup5ZhQkvX1HIalIW/view?usp=sharing](https://drive.google.com/file/d/1otSFBwYQcOD1dgZqup5ZhQkvX1HIalIW/view?usp=sharing) [James]
 
+__`Links`__ : 
 
+- [https://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/readings/L14%20Recurrent%20Neural%20Nets.pdf](https://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/readings/L14%20Recurrent%20Neural%20Nets.pdf) (CSC321, EN)
+- [https://blog.naver.com/PostView.nhn?blogId=winddori2002&logNo=221974391796](https://blog.naver.com/PostView.nhn?blogId=winddori2002&logNo=221974391796) (RNN computation flow, KR) 
+- [https://curt-park.github.io/2017-03-26/yolo/](https://curt-park.github.io/2017-03-26/yolo/) (computation flow, KR)
+- [http://bigdata.dongguk.ac.kr/lectures/TextMining/_book/%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8language-model.html](http://bigdata.dongguk.ac.kr/lectures/TextMining/_book/%EC%96%B8%EC%96%B4-%EB%AA%A8%EB%8D%B8language-model.html) (Language Modeling, KR)
+- [https://gruuuuu.github.io/machine-learning/lstm-doc/](https://gruuuuu.github.io/machine-learning/lstm-doc/) (why tanh is used, not sigmoid nor relu ?, KR) 
 
+__`Next`__ : 2021.06.19 9:00 PM KST
 
+- __Long Short Term Memory Networks (Jaden, James)__ 
 
+> - [TBA](.)  
