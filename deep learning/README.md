@@ -690,6 +690,20 @@ __`Next`__ : 2021.06.05 9:00 PM KST
 - __Recurrent Neural Network (Hayden, James)__ 
 
 > - [https://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/readings/L14%20Recurrent%20Neural%20Nets.pdf](https://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/readings/L14%20Recurrent%20Neural%20Nets.pdf) 
+>
+> - __1.Introduction__ 
+>   - Tasks predicting 'sequences'
+>   - Neural Language Model to RNN
+> - __2.Recurrent Neural Nets__ 
+>   - unrolling network to understand like FFNN
+>   - 3 examples of how parameter setting result in RNN
+> - __3.Backprop Through Time__ 
+>   - View as MLP backprop with unrolled computation-graph
+>   - Comparing with MLP backprop
+> - __4.Sequence Modeling (what tasks can RNN be applied)__ 
+>   - Language Modeling
+>   - Neural Machine Translation
+>   - Learning to Execute Programs
 
 ​	
 
@@ -719,3 +733,10 @@ __`Next`__ : 2021.06.19 9:00 PM KST
 - __Long Short Term Memory Networks (Jaden, James)__ 
 
 > - [TBA](.)  
+
+​	
+
+---
+
+​	
+
