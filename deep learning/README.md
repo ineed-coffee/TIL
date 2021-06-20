@@ -732,11 +732,49 @@ __`Next`__ : 2021.06.19 9:00 PM KST
 
 - __Long Short Term Memory Networks (Jaden, James)__ 
 
-> - [TBA](.)  
+> - __1.Introduction__ 
+>   - Long-Term Dependency (gradient vanishing/exploding)
+>   - introduction to 3 gates
+> - __2.LSTM forward computation flow__ 
+>   - what is calculated at each gate
+>   - summarized behavior table
+> - __3.LSTM BPTT flow__ 
+>   - what to update?
+>   - how cell-state is safe from GV,GE ?
+> - __4.Quick LSTM example (Tensorflow)__ 
+>   - Tensorflow Time-Series Tutorial
 
 ​	
 
 ---
+
+​	
+
+### [2021.06.19]
+
+__`Topic`__ : __Long Short Term Memory (Jaden, James)__ 
+
+__`Notes`__ : 
+
+- [https://drive.google.com/file/d/1aPc-tj2W3QxV3R_mPKn6V-LjWLxpnZto/view?usp=sharing](https://drive.google.com/file/d/1aPc-tj2W3QxV3R_mPKn6V-LjWLxpnZto/view?usp=sharing) [Jaden]
+- [https://drive.google.com/file/d/1Y3s4ZuPlsrW0PyZgQc2pVMyoLAzBvWz-/view?usp=sharing](https://drive.google.com/file/d/1Y3s4ZuPlsrW0PyZgQc2pVMyoLAzBvWz-/view?usp=sharing) [James]
+
+__`Links`__ : 
+
+- [https://brunch.co.kr/@chris-song/9](https://brunch.co.kr/@chris-song/9) (Long Term Dependency, KR)
+- [https://wegonnamakeit.tistory.com/7](https://wegonnamakeit.tistory.com/7) (introduction to 3-gates, KR)
+- [https://ratsgo.github.io/natural%20language%20processing/2017/03/09/rnnlstm/](https://ratsgo.github.io/natural%20language%20processing/2017/03/09/rnnlstm/) (LSTM BPTT figure, KR)
+- [https://brunch.co.kr/@chris-song/9](https://brunch.co.kr/@chris-song/9) (BPTT equation, KR)
+- [http://blog.naver.com/PostView.nhn?blogId=apr407&logNo=221237917815&parentCategoryNo=&categoryNo=58&viewDate=&isShowPopularPosts=true&from=search](http://blog.naver.com/PostView.nhn?blogId=apr407&logNo=221237917815&parentCategoryNo=&categoryNo=58&viewDate=&isShowPopularPosts=true&from=search) (Vectorized Notation, KR)
+- [https://wegonnamakeit.tistory.com/7](https://wegonnamakeit.tistory.com/7) (Peephole LTSM, KR)
+- [https://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/slides/lec16.pdf](https://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/slides/lec16.pdf) (Gate behavior table, EN)
+- [https://tykimos.github.io/2017/04/09/RNN_Layer_Talk/](https://tykimos.github.io/2017/04/09/RNN_Layer_Talk/) (LSTM coding)
+
+__`Next`__ : 2021.06.19 9:00 PM KST
+
+- __GRU (Chloe, James)__ 
+
+> - [TBA](.)  
 
 ​	
 
