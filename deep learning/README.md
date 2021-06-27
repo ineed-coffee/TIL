@@ -770,11 +770,43 @@ __`Links`__ :
 - [https://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/slides/lec16.pdf](https://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/slides/lec16.pdf) (Gate behavior table, EN)
 - [https://tykimos.github.io/2017/04/09/RNN_Layer_Talk/](https://tykimos.github.io/2017/04/09/RNN_Layer_Talk/) (LSTM coding)
 
-__`Next`__ : 2021.06.19 9:00 PM KST
+__`Next`__ : 2021.06.26 9:00 PM KST
 
-- __GRU (Chloe, James)__ 
+- __GRU part 1(James)__ 
 
 > - [TBA](.)  
 
 ​	
+
+---
+
+​	
+
+### [2021.06.26]
+
+__`Topic`__ : __Gated Recurrent Units (James)__ 
+
+__`Notes`__ : 
+
+- [https://drive.google.com/file/d/14GIdsLiTJgbYtU--aCi11sev_s8GHSYq/view?usp=sharing](https://drive.google.com/file/d/14GIdsLiTJgbYtU--aCi11sev_s8GHSYq/view?usp=sharing) [James]
+
+__`Links`__ : 
+
+- [https://wiserloner.tistory.com/1112](https://wiserloner.tistory.com/1112) (Why GRU was developed? , KR)
+- [https://yjjo.tistory.com/18](https://yjjo.tistory.com/18) (introduction to gates in GRU , KR)
+- [https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=winddori2002&logNo=221992543837](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=winddori2002&logNo=221992543837) (Computation flow details , KR)
+- [https://medium.com/@mihirkhandekar/forward-and-backpropagation-in-grus-derived-deep-learning-5764f374f3f5](https://medium.com/@mihirkhandekar/forward-and-backpropagation-in-grus-derived-deep-learning-5764f374f3f5) (BPTT in GRU , EN)
+- [https://wikidocs.net/106473](https://wikidocs.net/106473) (Recurrent Network code tutorial, KR)
+
+__`Next`__ : 2021.07.03 9:00 PM KST
+
+- __GRU part 2(Chloe, James)__ 
+
+> - [TBA](.)  
+
+​	
+
+---
+
+
 
